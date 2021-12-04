@@ -1,0 +1,83 @@
+{
+  "uid" : "2139758601806f85",
+  "name" : "Search product by category",
+  "fullName" : "Testing products searching.Search product by category",
+  "historyId" : "ecd31e0ef81e3b5b60390a791bf423d4",
+  "time" : {
+    "start" : 1638641319347,
+    "stop" : 1638641320504,
+    "duration" : 1157
+  },
+  "description" : "testing search by category",
+  "descriptionHtml" : "<p>testing search by category</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "select category",
+      "time" : {
+        "start" : 1638641319348,
+        "stop" : 1638641320356,
+        "duration" : 1008
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing products searching"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing products searching"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search product by category"
+  }, {
+    "name" : "package",
+    "value" : "Testing products searching"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2139758601806f85.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

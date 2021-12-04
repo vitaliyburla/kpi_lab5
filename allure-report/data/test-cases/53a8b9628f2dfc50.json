@@ -1,0 +1,83 @@
+{
+  "uid" : "53a8b9628f2dfc50",
+  "name" : "Delete product from cart",
+  "fullName" : "Testing cart.Delete product from cart",
+  "historyId" : "6b2b524c0fb76249a4598e28282c7041",
+  "time" : {
+    "start" : 1638641325694,
+    "stop" : 1638641326271,
+    "duration" : 577
+  },
+  "description" : "deleting product from cart",
+  "descriptionHtml" : "<p>deleting product from cart</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "delete product",
+      "time" : {
+        "start" : 1638641325695,
+        "stop" : 1638641326098,
+        "duration" : 403
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Delete product from cart"
+  }, {
+    "name" : "package",
+    "value" : "Testing cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53a8b9628f2dfc50.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

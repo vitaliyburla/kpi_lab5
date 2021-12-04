@@ -1,0 +1,83 @@
+{
+  "uid" : "ffa86c264848b986",
+  "name" : "Go to phones page and filter by color",
+  "fullName" : "Testing products filters.Go to phones page and filter by color",
+  "historyId" : "1e500bfdc508c42909b701ebf9c8b5bc",
+  "time" : {
+    "start" : 1638641308090,
+    "stop" : 1638641311738,
+    "duration" : 3648
+  },
+  "description" : "testing filtering by color",
+  "descriptionHtml" : "<p>testing filtering by color</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "go to phones page",
+      "time" : {
+        "start" : 1638641308091,
+        "stop" : 1638641311530,
+        "duration" : 3439
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Testing products filters"
+  }, {
+    "name" : "testClass",
+    "value" : "Testing products filters"
+  }, {
+    "name" : "testMethod",
+    "value" : "Go to phones page and filter by color"
+  }, {
+    "name" : "package",
+    "value" : "Testing products filters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.55"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffa86c264848b986.json",
+  "parameterValues" : [ "chrome-96.0.4664.55" ]
+}

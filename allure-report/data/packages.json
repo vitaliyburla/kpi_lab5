@@ -1,0 +1,121 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Testing products filters",
+    "children" : [ {
+      "name" : "Go to phones page and filter by city",
+      "uid" : "5016963ae3efec7f",
+      "parentUid" : "729619a52586c1ed9cd0457f028f1389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641296943,
+        "stop" : 1638641304968,
+        "duration" : 8025
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Go to phones page and order by price",
+      "uid" : "38ee9130bc44d9c2",
+      "parentUid" : "729619a52586c1ed9cd0457f028f1389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641304968,
+        "stop" : 1638641308090,
+        "duration" : 3122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Go to phones page and filter by color",
+      "uid" : "ffa86c264848b986",
+      "parentUid" : "729619a52586c1ed9cd0457f028f1389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641308090,
+        "stop" : 1638641311738,
+        "duration" : 3648
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "729619a52586c1ed9cd0457f028f1389"
+  }, {
+    "name" : "Testing products searching",
+    "children" : [ {
+      "name" : "Search product by query",
+      "uid" : "eaf8ada96b74edfa",
+      "parentUid" : "fc4607f581aa3d526fe516432c740dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641311747,
+        "stop" : 1638641319347,
+        "duration" : 7600
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Search product by category",
+      "uid" : "2139758601806f85",
+      "parentUid" : "fc4607f581aa3d526fe516432c740dfb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641319347,
+        "stop" : 1638641320504,
+        "duration" : 1157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "fc4607f581aa3d526fe516432c740dfb"
+  }, {
+    "name" : "Testing cart",
+    "children" : [ {
+      "name" : "Add product to cart",
+      "uid" : "f7bca26983ea533c",
+      "parentUid" : "d404dafe08d9a051d0fc967540dd0434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641320507,
+        "stop" : 1638641324681,
+        "duration" : 4174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Go to cart",
+      "uid" : "46541b0545b3ffe0",
+      "parentUid" : "d404dafe08d9a051d0fc967540dd0434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641324681,
+        "stop" : 1638641325693,
+        "duration" : 1012
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    }, {
+      "name" : "Delete product from cart",
+      "uid" : "53a8b9628f2dfc50",
+      "parentUid" : "d404dafe08d9a051d0fc967540dd0434",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638641325694,
+        "stop" : 1638641326271,
+        "duration" : 577
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.55" ]
+    } ],
+    "uid" : "d404dafe08d9a051d0fc967540dd0434"
+  } ]
+}

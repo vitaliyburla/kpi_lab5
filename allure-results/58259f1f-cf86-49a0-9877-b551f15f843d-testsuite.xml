@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1638641296942' stop='1638641311738'>
+    <name>Testing products filters</name>
+    <title>Testing products filters</title>
+    <test-cases>
+        <test-case start='1638641296943' status='passed' stop='1638641304968'>
+            <name>Go to phones page and filter by city</name>
+            <title>Go to phones page and filter by city</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps>
+                <step start='1638641301261' status='passed' stop='1638641304967'>
+                    <name>go to phones page</name>
+                    <title>go to phones page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>testing filtering by city</description>
+        </test-case>
+        <test-case start='1638641304968' status='passed' stop='1638641308090'>
+            <name>Go to phones page and order by price</name>
+            <title>Go to phones page and order by price</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps>
+                <step start='1638641304968' status='passed' stop='1638641308090'>
+                    <name>go to phones page</name>
+                    <title>go to phones page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>testing ordering by price</description>
+        </test-case>
+        <test-case start='1638641308090' status='passed' stop='1638641311738'>
+            <name>Go to phones page and filter by color</name>
+            <title>Go to phones page and filter by color</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps>
+                <step start='1638641308091' status='passed' stop='1638641311530'>
+                    <name>go to phones page</name>
+                    <title>go to phones page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>testing filtering by color</description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

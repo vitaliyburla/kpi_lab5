@@ -1,0 +1,81 @@
+[ {
+  "uid" : "46541b0545b3ffe0",
+  "name" : "Go to cart",
+  "time" : {
+    "start" : 1638641324681,
+    "stop" : 1638641325693,
+    "duration" : 1012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffa86c264848b986",
+  "name" : "Go to phones page and filter by color",
+  "time" : {
+    "start" : 1638641308090,
+    "stop" : 1638641311738,
+    "duration" : 3648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eaf8ada96b74edfa",
+  "name" : "Search product by query",
+  "time" : {
+    "start" : 1638641311747,
+    "stop" : 1638641319347,
+    "duration" : 7600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7bca26983ea533c",
+  "name" : "Add product to cart",
+  "time" : {
+    "start" : 1638641320507,
+    "stop" : 1638641324681,
+    "duration" : 4174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2139758601806f85",
+  "name" : "Search product by category",
+  "time" : {
+    "start" : 1638641319347,
+    "stop" : 1638641320504,
+    "duration" : 1157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5016963ae3efec7f",
+  "name" : "Go to phones page and filter by city",
+  "time" : {
+    "start" : 1638641296943,
+    "stop" : 1638641304968,
+    "duration" : 8025
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53a8b9628f2dfc50",
+  "name" : "Delete product from cart",
+  "time" : {
+    "start" : 1638641325694,
+    "stop" : 1638641326271,
+    "duration" : 577
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38ee9130bc44d9c2",
+  "name" : "Go to phones page and order by price",
+  "time" : {
+    "start" : 1638641304968,
+    "stop" : 1638641308090,
+    "duration" : 3122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

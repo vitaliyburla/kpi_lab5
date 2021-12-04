@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1638641311744' stop='1638641320504'>
+    <name>Testing products searching</name>
+    <title>Testing products searching</title>
+    <test-cases>
+        <test-case start='1638641311747' status='passed' stop='1638641319347'>
+            <name>Search product by query</name>
+            <title>Search product by query</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps>
+                <step start='1638641317712' status='passed' stop='1638641319347'>
+                    <name>enter query</name>
+                    <title>enter query</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>testing search by query</description>
+        </test-case>
+        <test-case start='1638641319347' status='passed' stop='1638641320504'>
+            <name>Search product by category</name>
+            <title>Search product by category</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+                <parameter kind='argument' name='browser' value='chrome-96.0.4664.55'/>
+            </parameters>
+            <steps>
+                <step start='1638641319348' status='passed' stop='1638641320356'>
+                    <name>select category</name>
+                    <title>select category</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <description type='text'>testing search by category</description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
